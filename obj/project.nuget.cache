@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HVYz2yOaOVL77H7lHz1FZHRaGHxHm8JPT72vEpgm7y30NZ54Xg7vpD7jZedbkhXyw+qjzG4YzX/4ChTvRDhBYw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\repos\\administradorUsuarios\\administradorUsuarios.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    }
+  ]
+}
